@@ -1,1 +1,7 @@
-# cis104_ex06
+![f](ex06/ex06screenshots/101.png)
+![f](ex06/ex06screenshots/102.png)
+![f](ex06/ex06screenshots/103.png)
+![f](ex06/ex06screenshots/104.png)
+![f](ex06/ex06screenshots/105.png)
+![f](ex06/ex06screenshots/106.png)
+![f](ex06/ex06screenshots/107.png)
