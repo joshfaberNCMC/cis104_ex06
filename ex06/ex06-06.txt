@@ -1,1 +1,0 @@
-The string method syntax for a majority of the methods are string(sub, start, end). Sub is typically the item your performing an action with (search string, suffix, prefix, etc.), start is the index location you're beginning your action at, and end is the index location your ending your action at.
